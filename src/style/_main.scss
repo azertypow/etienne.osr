@@ -7,3 +7,25 @@
   left: 0;
   object-fit: contain;
 }
+
+.home__next {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 200px;
+  height: 200px;
+  z-index: 100;
+  background: blue;
+  opacity: .5;
+
+  &.go-to-home {
+    bottom: 0 !important;
+    left: 0 !important;
+    top: auto !important;
+    right: auto !important;
+    width: 220px !important;
+    height: 220px !important;
+    transform: none !important;
+  }
+}

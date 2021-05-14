@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <router-link to="/about" class="home__next"></router-link>
-    <img class="e-img-bg" alt="" src="../assets/plan/01_INTERFACE.png">
+    <router-link to="/02" class="home__next"></router-link>
+    <img class="e-img-bg" alt="" src="../assets/plan/01_INTERFACE@2x.png">
   </div>
 </template>
 
@@ -19,14 +19,10 @@ export default {
 
 <style lang="scss" scoped>
 .home__next {
-  position: fixed;
   top: 50%;
   left: 50%;
-  display: block;
-  //background: blue;
-  width: 200px;
-  height: 200px;
-  z-index: 100;
+  width: 400px;
+  height: 400px;
   transform: translate(-50%, -50%);
 }
 </style>
