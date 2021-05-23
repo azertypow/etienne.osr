@@ -1,12 +1,11 @@
 <template>
-  <section class="v-02">
+  <section class="v-03">
 
-    <router-link to="/B03" class="home__next is__member"></router-link>
-    <router-link to="/A03" class="home__next"></router-link>
-
+    <router-link to="/A04" class="home__next"></router-link>
     <router-link to="/" class="home__next go-to-home"></router-link>
 
-    <img class="e-img-bg" alt="" src="../assets/plan/02_Who_are_you@2x.png">
+    <img class="e-img-bg" alt="" src="../assets/plan/A03_RULES@2x.png">
+
   </section>
 </template>
 
@@ -15,14 +14,14 @@ import {defineComponent, PropType} from "vue"
 
 export default defineComponent({
 
-  name: '02',
+  name: 'A03',
 
 });
 </script>
 
 <style scoped lang="scss">
 .home__next {
-  top: 735px;
+  top: 865px;
   left: 50%;
   width: 690px;
   height: 110px;
@@ -30,7 +29,7 @@ export default defineComponent({
 }
 
 .home__next.is__member {
-  top: 615px;
+  top: 735px;
   left: 50%;
   width: 690px;
   height: 110px;
