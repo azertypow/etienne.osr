@@ -54,7 +54,7 @@ export default defineComponent({
 
 .cache {
   background: white;
-  background: red;
+  //background: red;
   position: fixed;
   right: 0;
   top: 0;

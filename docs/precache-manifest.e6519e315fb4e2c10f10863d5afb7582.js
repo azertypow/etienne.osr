@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2500d2205aa7332d9214",
-    "url": "https://azertypow.github.io/etienne.osr/css/about.7e592850.css"
+    "revision": "f2b46c2e3fe15d19f180",
+    "url": "https://azertypow.github.io/etienne.osr/css/about.3991b74b.css"
   },
   {
-    "revision": "98bb9d59754833116c4d",
+    "revision": "ad3829c3d80bbc8d18a9",
     "url": "https://azertypow.github.io/etienne.osr/css/app.f5c59a0f.css"
   },
   {
@@ -64,16 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://azertypow.github.io/etienne.osr/img/online-gif.8f3a5320.gif"
   },
   {
-    "revision": "db1beefbf8bb59ebde3c19088b829990",
+    "revision": "873537bfd591509151c781998eab18ea",
     "url": "https://azertypow.github.io/etienne.osr/index.html"
   },
   {
-    "revision": "2500d2205aa7332d9214",
-    "url": "https://azertypow.github.io/etienne.osr/js/about.ee56683a.js"
+    "revision": "f2b46c2e3fe15d19f180",
+    "url": "https://azertypow.github.io/etienne.osr/js/about.f4b7c770.js"
   },
   {
-    "revision": "98bb9d59754833116c4d",
-    "url": "https://azertypow.github.io/etienne.osr/js/app.ac352f5c.js"
+    "revision": "ad3829c3d80bbc8d18a9",
+    "url": "https://azertypow.github.io/etienne.osr/js/app.a6abfe31.js"
   },
   {
     "revision": "4443c7f74006420822fb",
