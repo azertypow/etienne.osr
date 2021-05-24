@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://azertypow.github.io/etienne.osr/precache-manifest.e6519e315fb4e2c10f10863d5afb7582.js"
+  "https://azertypow.github.io/etienne.osr/precache-manifest.c6036933b20fc9e49423694a845835d3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "webapp"});

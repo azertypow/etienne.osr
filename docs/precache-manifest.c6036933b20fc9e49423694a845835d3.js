@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2b46c2e3fe15d19f180",
-    "url": "https://azertypow.github.io/etienne.osr/css/about.3991b74b.css"
+    "revision": "4ce501354dcc00018aed",
+    "url": "https://azertypow.github.io/etienne.osr/css/about.20ce745a.css"
   },
   {
-    "revision": "ad3829c3d80bbc8d18a9",
+    "revision": "4b2e0d30ffd4319dc126",
     "url": "https://azertypow.github.io/etienne.osr/css/app.f5c59a0f.css"
   },
   {
@@ -24,16 +24,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://azertypow.github.io/etienne.osr/img/A04_Questions_P.1@2x.fd404f3e.png"
   },
   {
-    "revision": "4b4068ad4b02ae85c04d656dc1b7a7e5",
-    "url": "https://azertypow.github.io/etienne.osr/img/A05_Questions_P.2@2x.4b4068ad.png"
+    "revision": "2e6087a600a7d473da74252bcd2b1f5c",
+    "url": "https://azertypow.github.io/etienne.osr/img/A05_Questions_P.2@2x.2e6087a6.png"
   },
   {
-    "revision": "266fdede5e7828175e3133e4cc255d4f",
-    "url": "https://azertypow.github.io/etienne.osr/img/A06_Questions_P.3@2x.266fdede.png"
+    "revision": "284e00a46264b310b627823bc437e5bb",
+    "url": "https://azertypow.github.io/etienne.osr/img/A06_Questions_P.3@2x.284e00a4.png"
   },
   {
-    "revision": "01d4f13860b862f39e3ca45749ce0090",
-    "url": "https://azertypow.github.io/etienne.osr/img/B03_RULES_MEMBRES@2x.01d4f138.png"
+    "revision": "e6d701f04b270e3770c6c6a6034ff902",
+    "url": "https://azertypow.github.io/etienne.osr/img/B03_RULES_MEMBRES@2x.e6d701f0.png"
   },
   {
     "revision": "7d1940ed4772312e0b47aeaadae809f4",
@@ -64,16 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://azertypow.github.io/etienne.osr/img/online-gif.8f3a5320.gif"
   },
   {
-    "revision": "873537bfd591509151c781998eab18ea",
+    "revision": "2dd6d7ee337f4799969263b85b11cf7c",
     "url": "https://azertypow.github.io/etienne.osr/index.html"
   },
   {
-    "revision": "f2b46c2e3fe15d19f180",
-    "url": "https://azertypow.github.io/etienne.osr/js/about.f4b7c770.js"
+    "revision": "4ce501354dcc00018aed",
+    "url": "https://azertypow.github.io/etienne.osr/js/about.bc813196.js"
   },
   {
-    "revision": "ad3829c3d80bbc8d18a9",
-    "url": "https://azertypow.github.io/etienne.osr/js/app.a6abfe31.js"
+    "revision": "4b2e0d30ffd4319dc126",
+    "url": "https://azertypow.github.io/etienne.osr/js/app.be3ffb63.js"
   },
   {
     "revision": "4443c7f74006420822fb",
