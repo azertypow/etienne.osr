@@ -1,6 +1,6 @@
 <template>
   <section class="v-B05">
-    <router-link to="/" class="home__next"></router-link>
+    <router-link to="/S01" class="home__next"></router-link>
     <img class="e-img-bg" alt="" src="../assets/plan/B05_ANALYS_MEMBRES@2x.png">
   </section>
 </template>
