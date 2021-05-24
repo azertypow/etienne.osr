@@ -20,6 +20,8 @@
         class="v-O4-q-6"
     ></questions>
 
+    <div class="cache"></div>
+
     <router-link to="/A05" class="home__next"></router-link>
     <router-link to="/" class="home__next go-to-home"></router-link>
     <img class="e-img-bg" alt="" src="../assets/plan/A04_Questions_P.1@2x.png">
@@ -47,6 +49,17 @@ export default defineComponent({
   transform: translate(0%, -50%);
   //background: white;
   //opacity: 1;
+}
+
+.cache {
+  background: white;
+  background: red;
+  position: fixed;
+  right: 0;
+  top: 0;
+  height: 1050px;
+  width: 420px;
+  z-index: 5;
 }
 
 .v-O4-q-1 {

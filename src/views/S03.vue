@@ -2,7 +2,7 @@
   <section class="v-A07">
     <router-link to="/" class="home__next"></router-link>
 <!--    <img class="e-img-bg" alt="" src="../assets/plan/SCENARIO3@2x.png">-->
-    <img class="e-img-bg QR" alt="" src="../assets/plan/QR1.png">
+    <img class="e-img-bg QR" alt="" src="../assets/plan/QR3.png">
   </section>
 </template>
 
